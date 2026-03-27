@@ -6,3 +6,6 @@ for winner in winners:
     else:
         scoreboard_counts[winner] = 1
 print(scoreboard_counts)
+
+
+#added chanegs by sc
